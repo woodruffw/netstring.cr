@@ -1,5 +1,7 @@
 # netstring.cr
 
+[![Build Status](https://travis-ci.com/woodruffw/netstrings.cr.svg?branch=master)](https://travis-ci.com/woodruffw/netstrings.cr)
+
 A Crystal implementation of [djb's netstrings](https://cr.yp.to/proto/netstrings.txt).
 
 ## Installation
