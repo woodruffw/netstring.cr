@@ -1,6 +1,6 @@
 # netstring.cr
 
-[![Build Status](https://travis-ci.com/woodruffw/netstring.cr.svg?branch=master)](https://travis-ci.com/woodruffw/netstring.cr)
+[![Build Status](https://img.shields.io/github/workflow/status/woodruffw/netstring.cr/CI/master)](https://github.com/woodruffw/netstring.cr/actions?query=workflow%3ACI)
 
 A Crystal implementation of [djb's netstrings](https://cr.yp.to/proto/netstrings.txt).
 
