@@ -1,6 +1,7 @@
 netstring.cr
 ============
 
+![license](https://raster.shields.io/badge/license-MIT%20with%20restrictions-green.png)
 [![Build Status](https://img.shields.io/github/workflow/status/woodruffw/netstring.cr/CI/master)](https://github.com/woodruffw/netstring.cr/actions?query=workflow%3ACI)
 
 A Crystal implementation of [djb's netstrings](https://cr.yp.to/proto/netstrings.txt).
